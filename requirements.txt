@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+tabulate
+validator_collection
+pyfiglet
+pytest
+
